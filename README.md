@@ -13,5 +13,5 @@ PC installed with SCILAB.
 
 # CALCULATIONS: 
 
-# OUTPUT IMAGES: 
+# SAMPLE OUTPUT: 
 # RESULT: 
